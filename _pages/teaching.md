@@ -2,11 +2,20 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Teaching Assistant experience
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+At this moment I am teaching assistant at Örebro University in the Centre for Applied Autonomous Sensor Systems (AASS) (https://www.oru.se/english/research/research-environments/ent/aass/). The subjects I am assisting to are:
 
-Organize your courses by years, topics, or universities, however you like!
+ <ol>
+  <li>Computer Networks in two different programs</li>
+    <ol>
+      <li>Högskoleingenjör, Datateknik (Computer Technology Program) under the supervision of Oscar Martinez Mozos</li>
+      <li>Civilingenjör, Datateknik (Computer Technology Master) under the supervision of Uwe Köckemann</li>
+    </ol>
+  <li>Digital Electronics:</li>
+      <ol>
+      <li>Högskoleingenjör, Datateknik (Computer Technology Program) under the supervision of Oscar Martinez Mozos</li>
+    </ol>
