@@ -22,4 +22,4 @@ Photos from the presentation.
 </div>
 
 <p align="justify"> There is a video from the presentation coming</p>
-<p align="justify">The power point presented [<a href="https://www.example.com">PPT</a>] </p>
+<p align="justify">The power point presented [<a href="/francisco_calatrava/assets/IEEE_Sensors_Presentation.pdf">PPT</a>] </p>
